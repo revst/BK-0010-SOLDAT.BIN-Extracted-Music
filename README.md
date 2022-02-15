@@ -8,3 +8,5 @@ then extract and correct it for the next execution.
 
 With a help of the 'PDPy11' - a compiler for PDP-11 by imachug
 (https://github.com/imachug/PDPy11) this task goes much easier.
+
+Attached test.bin file can be executed on BK-0010-01 emulator.
