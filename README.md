@@ -3,7 +3,7 @@ Extracted and edited music generating code fragment from a game "SOLDAT.BIN".
 
 I love music from this game, but game inner timer don't let to listen it for long.
 
-So I decided do find a piece of code that is responded for music playback,
+So I decided to find a piece of code that is responded for music playback,
 then extract and correct it for the next execution.
 
 With a help of the 'PDPy11' - a compiler for PDP-11 by imachug
