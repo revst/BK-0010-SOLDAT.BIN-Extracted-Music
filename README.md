@@ -1,7 +1,7 @@
 # BK-0010-SOLDAT.BIN-Extracted-Music
 Extracted and edited music generating code fragment from a game "SOLDAT.BIN".
 
-I love music from this game, but game inner timer don't let to listen it for long.
+I love music from this game, but the game inner timer don't let to listen it for long.
 
 So I decided to find a piece of code that is responded for music playback,
 then extract and correct it for the next execution.
